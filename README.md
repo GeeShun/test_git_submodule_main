@@ -1,7 +1,7 @@
 # test_git_submodule_main
 test for git sub module main
 
-##this is a practice for git submodule command.
+## this is a practice for git submodule command.
 in this practice, there are three sub modules:
 
 >1. test_git_submodule_function1
@@ -10,7 +10,7 @@ in this practice, there are three sub modules:
 
 >3. test_git_submodule function2
 
-##u can clone this practice, using following git commands:
+## u can clone this practice, using following git commands:
 
 >1. cd [ur practice directory]
 
@@ -22,7 +22,7 @@ in this practice, there are three sub modules:
  
 >   git checkout main
 
-##u also can build this practice, using make command:
+## u also can build this practice, using make command:
 
 >1. cd make_rule/
 
